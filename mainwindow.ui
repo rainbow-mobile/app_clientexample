@@ -123,7 +123,7 @@
     <property name="frameShadow">
      <enum>QFrame::Raised</enum>
     </property>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -149,7 +149,7 @@
          </size>
         </property>
         <property name="text">
-         <string>http://10.108.1.2:11334</string>
+         <string>http://localhost:11334</string>
         </property>
        </widget>
       </item>
@@ -188,7 +188,7 @@
          </size>
         </property>
         <property name="text">
-         <string>http://10.108.1.2:10334</string>
+         <string>http://localhost:10334</string>
         </property>
        </widget>
       </item>
@@ -286,7 +286,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <string>move</string>
      </property>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>70</x>
@@ -387,7 +387,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <string>stop</string>
      </property>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>720</x>
@@ -502,7 +502,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       </item>
      </layout>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>100</x>
@@ -612,7 +612,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
       <string>init</string>
      </property>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>10</x>
